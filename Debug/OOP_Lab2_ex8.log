@@ -1,0 +1,8 @@
+﻿  Functii.cpp
+  main.cpp
+c:\users\dumitru cristina\desktop\github\oop_lab2_ex8\oop_lab2_ex8\main.cpp(12): error C2440: '=': cannot convert from 'initializer list' to 'int *'
+  c:\users\dumitru cristina\desktop\github\oop_lab2_ex8\oop_lab2_ex8\main.cpp(12): note: The initializer contains too many elements
+c:\users\dumitru cristina\desktop\github\oop_lab2_ex8\oop_lab2_ex8\main.cpp(12): error C2660: 'ADD': function does not take 1 arguments
+  c:\users\dumitru cristina\desktop\github\oop_lab2_ex8\oop_lab2_ex8\header.h(6): note: see declaration of 'ADD'
+  Generating Code...
+c:\users\dumitru cristina\desktop\github\oop_lab2_ex8\oop_lab2_ex8\functii.cpp(7): error C4700: uninitialized local variable 'c' used
